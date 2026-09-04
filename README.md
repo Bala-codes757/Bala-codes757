@@ -79,22 +79,28 @@ Building, learning, and shipping projects that blend **web development, AI/ML, a
 ![Figma](https://img.shields.io/badge/Figma-0A101F?style=for-the-badge&logo=figma&logoColor=F24E1E)
 
 ---
+<h2 align="center">📊 GitHub Analytics</h2>
 
-## 📊 GitHub Analytics
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Bala-codes757&show_icons=true&hide_border=true&theme=tokyonight"
+    height="170"
+    alt="Bala's GitHub Stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala-codes757&layout=compact&hide_border=true&theme=tokyonight"
+    height="170"
+    alt="Bala's Top Languages"
+  />
+</p>
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=Bala-codes757&show_icons=true&hide_border=true&bg_color=0A101F&title_color=22D3EE&icon_color=7C3AED&text_color=94A3B8&include_all_commits=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala-codes757&layout=compact&hide_border=true&bg_color=0A101F&title_color=22D3EE&text_color=94A3B8" />
-
-<br>
-
-<img height="180" src="https://streak-stats.demolab.com/?user=Bala-codes757&hide_border=true&background=0A101F&ring=22D3EE&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=94A3B8" />
-
-</div>
-
----
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Bala-codes757&theme=tokyonight&hide_border=true"
+    height="170"
+    alt="Bala's GitHub Streak"
+  />
+</p>
 
 ## 🐍 Contribution Snake
 
