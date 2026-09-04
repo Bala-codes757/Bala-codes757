@@ -1,136 +1,103 @@
 <div align="center">
 
-<!-- ===================== BANNER SVG PLACEHOLDER ===================== -->
-<!--
-PASTE/REPLACE YOUR SVG CODE IN: assets/github-banner.svg
-Then keep the image reference below unchanged.
-Do not paste the raw SVG directly into README.md because GitHub sanitizes embedded SVG markup.
--->
-<img src="./assets/github-banner.svg" alt="Bala ES GitHub developer banner" width="100%">
-<!-- =================== END BANNER SVG PLACEHOLDER =================== -->
+<img src="./assets/github-banner.svg" alt="Bala ES — AI & ML Student and Full-Stack Developer" width="100%">
 
-# Hi, I'm Bala ES 👋
+# Bala ES
 
-### AI & ML Student • Full-Stack Developer
+**AI & ML Student · Full-Stack Developer**
 
-Building, learning, and shipping projects that blend **web development, AI/ML, and creative technology**.
+Building practical web applications and exploring the space where software, AI and creative technology meet.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-0A101F?style=for-the-badge&logo=vercel&logoColor=22D3EE&labelColor=0A101F&color=7C3AED)](https://balamurugan-portfolio-topaz.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logo=linkedin&logoColor=22D3EE&labelColor=0A101F&color=7C3AED)](https://www.linkedin.com/in/bala-es-18572437b)
-[![Instagram](https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=22D3EE&labelColor=0A101F&color=7C3AED)](https://www.instagram.com/___balzz/)
-[![Email](https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=22D3EE&labelColor=0A101F&color=7C3AED)](mailto:b757pu@gmail.com)
+[Portfolio](https://balamurugan-portfolio-topaz.vercel.app) · [LinkedIn](https://www.linkedin.com/in/bala-es-18572437b) · [Instagram](https://www.instagram.com/___balzz/) · [Email](mailto:b757pu@gmail.com)
 
 </div>
 
----
-
-## 🔭 Currently working on
-
-- Full-stack web projects
-- AI-powered applications
-- Creative digital experiences
-
-## 👯 Looking to collaborate on
-
-- Hackathons
-- Open-source projects
-- Web applications
-- AI/ML projects
-
-## 🌱 Currently learning
-
-**NumPy • Pandas • OpenCV**
-
-## 💬 Ask me about
-
-**React • Node.js • Firebase • MySQL • Web Development • AI Projects • Hackathons**
-
----
-
-## 🛠️ Tech Stack
-
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-0A101F?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Java](https://img.shields.io/badge/Java-0A101F?style=for-the-badge&logo=openjdk&logoColor=ED8B00)
-![Python](https://img.shields.io/badge/Python-0A101F?style=for-the-badge&logo=python&logoColor=3776AB)
-![HTML5](https://img.shields.io/badge/HTML5-0A101F?style=for-the-badge&logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-0A101F?style=for-the-badge&logo=css3&logoColor=1572B6)
-
-### Frontend
-![React](https://img.shields.io/badge/React-0A101F?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-0A101F?style=for-the-badge&logo=node.js&logoColor=339933)
-
-### Database & Services
-![Firebase](https://img.shields.io/badge/Firebase-0A101F?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![MySQL](https://img.shields.io/badge/MySQL-0A101F?style=for-the-badge&logo=mysql&logoColor=4479A1)
-
-### AI / ML
-![NumPy](https://img.shields.io/badge/NumPy-0A101F?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Pandas](https://img.shields.io/badge/Pandas-0A101F?style=for-the-badge&logo=pandas&logoColor=150458)
-![OpenCV](https://img.shields.io/badge/OpenCV-0A101F?style=for-the-badge&logo=opencv&logoColor=5C3EE8)
-
-### Tools
-![Git](https://img.shields.io/badge/Git-0A101F?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![VS Code](https://img.shields.io/badge/VS_Code-0A101F?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
-![Canva](https://img.shields.io/badge/Canva-0A101F?style=for-the-badge&logo=canva&logoColor=00C4CC)
-![Figma](https://img.shields.io/badge/Figma-0A101F?style=for-the-badge&logo=figma&logoColor=F24E1E)
-
----
-<h2 align="center">📊 GitHub Analytics</h2>
-
 <p align="center">
-  <img
-    src="./profile/stats.svg"
-    height="170"
-    alt="Bala's GitHub Stats"
-  />
-  <img
-    src="./profile/top-langs.svg"
-    height="170"
-    alt="Bala's Top Languages"
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=22D3EE&center=true&vCenter=true&width=620&lines=AI+%26+ML+Student;Full-Stack+Developer;Building+useful+things+with+code" alt="Typing introduction">
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=Bala-codes757&theme=tokyonight&hide_border=true"
-    height="170"
-    alt="Bala's GitHub Streak"
-  />
-</p>
+---
 
-## 🐍 Contribution Snake
+## About
+
+- Based in **Chennai, India**
+- Pursuing **B.Tech CSE with Artificial Intelligence & Machine Learning** at **SRM Institute of Science and Technology, Ramapuram**
+- Currently building **full-stack and AI-powered projects**
+- Learning **NumPy, Pandas and OpenCV**
+- Interested in **hackathons, open source and product-focused development**
+
+## Toolbox
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,java,python,react,nodejs,firebase,mysql,numpy,pandas,opencv,git,github,vscode,figma,canva&perline=9" alt="Technology stack" />
+
+</div>
+
+### Core stack
+
+| Area | Technologies |
+| --- | --- |
+| Languages | JavaScript · Java · Python · HTML · CSS |
+| Frontend | React |
+| Backend | Node.js |
+| Data & services | Firebase · MySQL |
+| AI / ML | NumPy · Pandas · OpenCV |
+| Tools | Git · GitHub · VS Code · Figma · Canva |
+
+## What I'm working toward
+
+I like taking an idea from a rough concept to something people can actually use. My current focus is strengthening full-stack development while gradually bringing AI and computer-vision capabilities into my projects.
+
+## Collaboration
+
+Open to **hackathons, open-source contributions, web applications and AI projects**. If you're building something useful and want another developer at the table, feel free to reach out.
+
+## Selected Projects
+
+A few areas I’m actively building and exploring.
+
+| Project | Focus |
+| --- | --- |
+| **Portfolio** | Personal portfolio for projects, skills and creative work. |
+| **AI / ML Projects** | Practical experiments with Python, computer vision and data tools. |
+| **Full-Stack Applications** | Web applications built with React, Node.js, Firebase and MySQL. |
+
+<sub>More work is available across my GitHub repositories.</sub>
+
+## GitHub activity
+
+<div align="center">
+
+<!-- Static cards generated by GitHub Actions can be placed here when the stats workflow is enabled. -->
+<img src="./profile/stats.svg" width="420" alt="GitHub statistics">
+<img src="./profile/top-langs.svg" width="420" alt="Top programming languages">
+
+</div>
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bala-codes757/Bala-codes757/output/github-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bala-codes757/Bala-codes757/output/github-snake.svg">
-  <img alt="Snake eating my GitHub contributions" src="https://raw.githubusercontent.com/Bala-codes757/Bala-codes757/output/github-snake.svg">
+  <img src="https://raw.githubusercontent.com/Bala-codes757/Bala-codes757/output/github-snake.svg" alt="Contribution snake" width="100%">
 </picture>
 
 </div>
 
----
-
-## 🌐 Let's Connect
+## Connect
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-7C3AED?style=for-the-badge&logo=vercel&logoColor=white)](https://balamurugan-portfolio-topaz.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-22D3EE?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-es-18572437b)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-10B981?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/___balzz/)
-[![Email](https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b757pu@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-111827?style=flat-square&logo=vercel&logoColor=white)](https://balamurugan-portfolio-topaz.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bala-es-18572437b)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/___balzz/)
+[![Email](https://img.shields.io/badge/Email-111827?style=flat-square&logo=gmail&logoColor=white)](mailto:b757pu@gmail.com)
 
 </div>
 
----
-
 <div align="center">
 
-⚡ **Fun fact:** I like building things that sit somewhere between technology, design and storytelling.
+<sub>Building · Learning · Shipping</sub>
 
 </div>
