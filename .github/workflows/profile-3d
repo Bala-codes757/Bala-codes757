@@ -11,7 +11,7 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate 3D contribution calendar
+
     steps:
       - uses: actions/checkout@v5
 
