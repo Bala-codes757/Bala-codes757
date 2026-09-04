@@ -83,12 +83,12 @@ Building, learning, and shipping projects that blend **web development, AI/ML, a
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Bala-codes757&show_icons=true&hide_border=true&theme=tokyonight"
+    src="./profile/stats.svg"
     height="170"
     alt="Bala's GitHub Stats"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bala-codes757&layout=compact&hide_border=true&theme=tokyonight"
+    src="./profile/top-langs.svg"
     height="170"
     alt="Bala's Top Languages"
   />
