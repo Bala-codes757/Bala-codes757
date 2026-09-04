@@ -1,0 +1,110 @@
+name: Profile Metrics
+
+on:
+  schedule:
+    - cron: "30 22 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  metrics-overview:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics-overview-dark.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: refresh profile overview"
+          output_action: commit
+          base: header
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 7
+          plugin_languages_ignored: html, css
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          config_display: large
+          extras_css: |
+            h2 { color: #22D3EE !important; }
+            text { font-family: "JetBrains Mono", monospace !important; }
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics-overview-light.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: refresh profile overview light"
+          output_action: commit
+          base: header
+          config_timezone: Asia/Kolkata
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+          plugin_languages: yes
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 7
+          plugin_languages_ignored: html, css
+          plugin_achievements: yes
+          plugin_achievements_display: compact
+          config_display: large
+          extras_css: |
+            h2 { color: #0891B2 !important; }
+            text { font-family: "JetBrains Mono", monospace !important; }
+
+  metrics-activity:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics-activity-dark.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: refresh profile activity"
+          output_action: commit
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 30
+          plugin_activity_timestamps: yes
+          plugin_habits: yes
+          plugin_habits_from: 300
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          config_display: large
+          extras_css: |
+            h2 { color: #22D3EE !important; }
+            text { font-family: "JetBrains Mono", monospace !important; }
+
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics-activity-light.svg
+          token: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_branch: main
+          committer_message: "chore: refresh profile activity light"
+          output_action: commit
+          base: ""
+          config_timezone: Asia/Kolkata
+          plugin_activity: yes
+          plugin_activity_limit: 8
+          plugin_activity_days: 30
+          plugin_activity_timestamps: yes
+          plugin_habits: yes
+          plugin_habits_from: 300
+          plugin_habits_charts: yes
+          plugin_habits_trim: yes
+          config_display: large
+          extras_css: |
+            h2 { color: #0891B2 !important; }
+            text { font-family: "JetBrains Mono", monospace !important; }
